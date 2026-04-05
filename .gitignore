@@ -1,0 +1,5 @@
+physics_db/
+__pycache__/
+*.pyc
+.env
+*.pdf
